@@ -1,0 +1,44 @@
+[{
+  "uid": "user-c7e8827f-fe8b-4a71-9be2-cb6c87dcab79",
+  "firstName": "Luke",
+  "lastName": "Skywalker",
+  "userName": "luke.skywalker",
+  "password": "2062c82d3f32bc970be0e3e09ec9b15492d527ec",
+  "isAdmin": true
+}, {
+  "uid": "user-98858d54-4566-4a4a-9bf0-3a457213bb56",
+  "firstName": "Han",
+  "lastName": "Solo",
+  "userName": "han.solo",
+  "password": "8c090d63dde1249b0f5d66b70dd8dedc5617185e"
+}, {
+  "uid": "user-e293d16c-7010-4b1b-bddb-fc449869d4dc",
+  "firstName": "Leia",
+  "lastName": "Organa",
+  "userName": "leia.organa",
+  "password": "0b94e86d02d30ce2d81ffd42ed5f7fd863ff0878"
+}, {
+  "uid": "user-97b05b21-7138-4770-af51-02620ca7c79e",
+  "firstName": "Anakin",
+  "lastName": "Skywalker",
+  "userName": "anakin.skywalker",
+  "password": "b4c4b12b3f1351e2128e1c240fea04d76d1395aa"
+}, {
+  "uid": "user-35221927-4347-4f3d-8231-024c5b4bb6a4",
+  "firstName": "Ben",
+  "lastName": "Solo",
+  "userName": "ben.solo",
+  "password": "67b77c52df225081697866310098e08920ecff35"
+}, {
+  "uid": "user-d6ca660f-8038-4a44-bce6-052cd6281c66",
+  "firstName": "Obiwan",
+  "lastName": "Kenobi",
+  "userName": "obiwan.kenobi",
+  "password": "312a6c4b291163a2edb42d2490b8fdb4019a3a62"
+}, {
+  "uid": "user-889be2f6-039f-4c58-b843-ec2f012746c5",
+  "firstName": "Rey",
+  "lastName": "Palpatine",
+  "userName": "rey.palpatine",
+  "password": "87f239b5bda0af547f049aebcb1dc4c325c4c0d6"
+}]
